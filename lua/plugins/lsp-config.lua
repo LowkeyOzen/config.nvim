@@ -1,10 +1,9 @@
 return{
-	
-{
+  {
     "neovim/nvim-lspconfig",
     config = function()
         vim.lsp.enable("ols")
-    end
-}
+    end,
+  }
 
 }
