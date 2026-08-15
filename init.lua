@@ -1,11 +1,6 @@
 print "OzzVim"
 
 require('config.lazy')
-require("odin").setup({
-    commands = {
-        build = { "odin", "build", ".", "-debug" },
-    },
-})
 
 vim.opt.clipboard = "unnamedplus"
 vim.opt.shiftwidth = 4
