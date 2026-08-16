@@ -2,6 +2,8 @@
 
 TODO: 
 
-Améliorer la config en intégralité
+add a Fuzzy finder
 
-verifier la config par langage 
+Verify some lsp 
+
+(Maybe Add C# support)
